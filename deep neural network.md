@@ -1,0 +1,1 @@
+A **deep neural network** is a type of [[machine learning]] model, and when it is fitted to data, this is referred to as [[deep learning]].

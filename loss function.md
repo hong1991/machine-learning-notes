@@ -1,0 +1,1 @@
+A function of parameters in a [[supervised learning]] model, $L(\phi)$. This summarizes how poorly the model predicts the outputs in [[training dataset]].

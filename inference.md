@@ -1,0 +1,1 @@
+Compute the prediction $y$ from the input $x$ by a [[supervised learning]] model $f$. $$y=f(x).$$

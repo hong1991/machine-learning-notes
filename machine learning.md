@@ -1,0 +1,2 @@
+**Machine learning** is a subset of [[artificial intelligence|AI]] that learns to make decisions by fitting mathematical models to observed data.
+There types: [[supervised learning]], [[unsupervised learning]], [[reinforcement learning]].
