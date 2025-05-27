@@ -1,0 +1,1 @@
+We can describe data (input or output)(hight dimension) using a smaller number of underlying **latent variables**(low dimension).
